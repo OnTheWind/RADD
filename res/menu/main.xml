@@ -1,0 +1,14 @@
+
+    <menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <item
+          android:id="@+id/action_queue"
+          android:icon="@drawable/action_queue"
+          android:title="@string/action_queue"
+          android:showAsAction="always" />
+        
+        <item
+          android:id="@+id/action_mix"
+          android:icon="@drawable/action_mix"
+          android:title="@string/action_mix"
+          android:showAsAction="always" />
+    </menu>
